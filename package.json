@@ -1,0 +1,10 @@
+{
+  "name": "the_dictuinaries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.13.0",
+    "puppeteer-core": "^1.13.0"
+  }
+}
