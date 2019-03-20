@@ -1,3 +1,4 @@
 {
-  "url": "https://translate.google.com"
+  "url": "https://translate.google.com",
+  "max_pages": 10
 }
