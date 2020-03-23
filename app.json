@@ -1,0 +1,11 @@
+{
+    "name": "google translator",
+    "description": "translate",
+    "repository": "https://github.com/suguanYang/google-translator",
+    "scripts": {
+      "postdeploy": "npm start"
+    },
+    "env": {
+    },
+    "image": "node"
+  }

@@ -1,8 +1,10 @@
 {
   "name": "the_dictuinaries",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "strart": "node src/index.js"
+  },
   "dependencies": {
     "puppeteer": "^1.13.0"
   }
