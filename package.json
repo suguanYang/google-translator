@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "strart": "node src/index.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "puppeteer": "^1.13.0"

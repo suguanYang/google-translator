@@ -3,7 +3,7 @@
     "description": "translate",
     "repository": "https://github.com/suguanYang/google-translator",
     "scripts": {
-      "postdeploy": "npm start"
+      "postdeploy": "npm install && npm start"
     },
     "env": {
     },
